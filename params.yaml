@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_denori__38785: http://denori:38785/
+rosversion: '1.15.13
+
+  '
+run_id: ca68753a-2f64-11ec-897d-4d7f007262c4
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
