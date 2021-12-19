@@ -13,7 +13,7 @@ as I wanted it and it now autocompletes, so my spelling mistakes don't appear so
 
 I decide to go with the C++ tutorials of ROS since I enjoy C++ more, but I do intend on seeing how Python programs with ROS.
 
-Here are two tests of the turtle sim tutorials I ran, in which I learned how to launch the simulation and see connections between the nodes and packageds.
+Here are two tests of the turtle sim tutorials I ran, in which I learned how to launch the simulation and see connections between the nodes and packages.
 
 
 https://user-images.githubusercontent.com/87344382/140659000-0dd9136d-93bb-4e7b-955f-4e870f9b6f24.mp4
